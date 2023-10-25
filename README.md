@@ -1,2 +1,2 @@
 # album-recommendations
-Searches through Rolling Stone's 500 Greatest Albums of All Time, generating results by ranking, year of release, and genre tags (taken from rateyourmusic.com and given more general tags at my discretion)
+Searches through the top 100 of Rolling Stone's 500 Greatest Albums of All Time, generating results by ranking, year of release, and genre tags. Most of the tags were taken from rateyourmusic.com so use what's on there for the most part, but I also added some more general ones like "rock", "pop", and "hip hop" at my discretion.
