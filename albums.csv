@@ -1,103 +1,103 @@
-Ranking, Album Name, Year, Genres
-1, Marvin Gaye - What's Going On, 1971, Soul, Smooth Soul
-2, The Beach Boys - Pet Sounds, 1966, Pop, Baroque Pop, Sunshine Pop, Psychedelic Pop, Progressive Pop, Brill Building, Art Pop
-3, Joni Mitchell - Blue, 1971, Folk, Singer-Songwriter, Contemporary Folk, Folk Pop
-4, Stevie Wonder - Songs in the Key of Life, 1976, Soul, Funk, Smooth Soul, Pop Soul
-5, The Beatles - Abbey Road, 1969, Pop, Rock, Pop Rock, Psychedelic Pop, Progressive Pop, Art Pop
-6, Nirvana - Nevermind, 1991, Rock, Grunge, Alternative Rock, Punk Rock
-7, Fleetwood Mac - Rumours, 1977, Rock, Pop Rock, Soft Rock, Folk Pop, Country Pop
-8, Prince and the Revolution - Purple Rain, 1984, Pop, Rock, Pop Rock, Film Soundtrack, Dance-Pop, Funk Rock, Minneapolis Sound, Synthpop, Glam Rock
-9, Bob Dylan - Blood on the Tracks, 1975, Rock, Singer-Songwriter, Folk Rock, Folk, Contemporary Folk
-10, Lauryn Hill - The Miseducation of Lauryn Hill, 1998, Neo-Soul, Contemporary R&B, R&B, Hip Hop, East Coast Hip Hop, Conscious Hip Hop, Boom Bap, Hip Hop Soul
-11, The Beatles - Revolver, 1966, Pop Rock, Rock, Pop, Psychedelic Pop, Psychedelic Rock
-12, Michael Jackson - Thriller, 1982, Pop, R&B, Contemporary R&B, Dance-Pop, Disco, Funk, Pop Soul, Synth Funk
-13, Aretha Franklin - I Never Loved a Man the Way I Love You, 1967, Soul, Deep Soul, Southern Soul, Rhythm & Blues
-14, The Rolling Stones - Exile on Main St., 1972, Rock, Blues Rock, Roots Rock, Country Rock, Rhythm & Blues
-15, Public Enemy - It Takes a Nation of Millions to Hold Us Back, 1988, Hip Hop, Rap, Political Hip Hop, East Coast Hip Hop, Hardcore Hip Hop, Conscious Hip Hop, Turntablism, Experimental Hip Hop
-16, The Clash - London Calling, 1979, Rock, New Wave, Punk Rock, Ska, Reggae, Rockabilly, Reggae Rock, Post-Punk
-17, Kanye West - My Beautiful Dark Twisted Fantasy, 2010, Rap, Hip Hop, Pop Rap, Art Pop, Experimental Hip Hop
-18, Bob Dylan - Highway 61 Revisited, 1965, Rock, Folk Rock, Singer-Songwriter, Blues Rock, Contemporary Folk, Folk
-19, Kendrick Lamar - To Pimp a Butterfly, 2015, Hip Hop, Rap, Conscious Hip Hop, West Coast Hip Hop, Jazz Rap, Political Hip Hop, Neo-Soul, Funk, Poetry, Experimental Hip Hop
-20, Radiohead - Kid A, 2000, Rock, Art Rock, Electronic, Experimental Rock, Ambient, IDM, Art Pop, Post-Rock
-21, Bruce Springsteen - Born to Run, 1975, Rock, Heartland Rock, Singer-Songwriter, Piano Rock
-22, The Notorious B.I.G. - Ready to Die, 1994, Rap, Hip Hop, East Coast Hip Hop, Gangsta Rap, Boom Bap, G-Funk
-23, The Velvet Underground & Nico - The Velvet Underground & Nico, 1967, Rock, Art Rock, Experimental Rock, Proto-Punk, Noise Rock, Garage Rock, Psychedelic Rock
-24, The Beatles - Sgt. Pepper's Lonely Hearts Club Band, 1967, Pop, Rock, Psychedelic Pop, Pop Rock, Psychedelic Rock, Art Rock, Baroque Pop, Sunshine Pop, Music Hall
-25, Carole King - Tapestry, 1971, Rock, Singer-Songwriter, Soft Rock, Folk Pop, Piano Rock, Pop Soul
-26, Patti Smith - Horses, 1975, Rock, Proto-Punk, Singer-Songwriter, Art Rock, Garage Rock, Art Punk, Poetry, Piano Rock, Glam Rock
-27, Wu-Tang Clan - Enter the Wu-Tang (36 Chambers), 1993, Rap, Hip Hop, East Coast Hip Hop, Boom Bap, Hardcore Hip Hop
-28, D'Angelo - Voodoo, 2000, Neo-Soul, Funk, Contemporary R&B, R&B, Psychedelic Soul, Smooth Soul, Hip Hop
-29, The Beatles - The Beatles (White Album), 1968, Rock, Pop Rock, Psychedelic Rock, Blues Rock, Art Rock, Folk Rock, Hard Rock
-30, The Jimi Hendrix Experience - Are You Experienced?, 1967, Rock, Blues Rock, Psychedelic Rock, Acid Rock, Hard Rock
-31, Miles Davis - Kind of Blue, 1959, Jazz, Modal Jazz, Cool Jazz
-32, Beyoncé - Lemonade, 2016, R&B, Contemporary R&B, Pop, Alternative R&B, Pop Rap, Art Pop, Pop Soul
-33, Amy Winehouse - Back to Black, 2006, Pop, Pop Soul, Rhythm & Blues, Soul, Neo-Soul, Jazz Pop, Brill Building
-34, Stevie Wonder - Innervisions, 1973, Soul, Funk, Smooth Soul, Psychedelic Soul
-35, The Beatles - Rubber Soul, 1965, Rock, Pop Rock, Folk Rock, Psychedelic Pop, Folk Pop, British Rhythm & Blues
-36, Michael Jackson - Off the Wall, 1979, Pop, Disco, Funk, Pop Soul, Contemporary R&B, Dance-Pop, Boogie
-37, Dr. Dre - The Chronic, 1992, Rap, Hip Hop, G-Funk, West Coast Hip Hop, Gangsta Rap
-38, Bob Dylan - Blonde on Blonde, 1966, Rock, Folk Rock, Singer-Songwriter, Blues Rock
-39, Talking Heads - Remain in Light, 1980, Rock, New Wave, Post-Punk, Funk, Afrobeat, Experimental Rock, Dance-Punk
-40, David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders from Mars, 1972, Rock, Glam Rock, Pop Rock, Art Rock, Rock Opera
-41, The Rolling Stones - Let It Bleed, 1969, Rock, Blues Rock, Country Rock
-42, Radiohead - OK Computer, 1997, Rock, Alternative Rock, Art Rock, Post-Britpop, Space Rock Revival
-43, A Tribe Called Quest - The Low End Theory, 1991, Rap, Hip Hop, Jazz Rap, East Coast Hip Hop, Conscious Hip Hop, Boom Bap
-44, Nas - Illmatic, 1994, Rap, Hip Hop, East Coast Hip Hop, Boom Bap, Hardcore Hip Hop, Conscious Hip Hop, Jazz Rap
-45, Prince - Sign O' the Times, 1987, Contemporary R&B, R&B, Pop Rock, Rock, Synth Funk, Soul, Funk, Minneapolis Sound
-46, Paul Simon - Graceland, 1986, Rock, Pop Rock, Singer-Songwriter, Mbaqanga, Mbube, Zydeco, Soukous, Isicathamiya
-47, Ramones - Ramones, 1976, Rock, Punk Rock, Pop Punk
-48, Bob Marley and the Wailers - Legend, 1984, Roots Reggae, Reggae, Pop Reggae, Lovers Rock
-49, OutKast - Aquemini, 1998, Rap, Hip Hop, Southern Hip Hop, Conscious Hip Hop, Neo-Soul, Funk, Experimental Hip Hop, Hardcore Hip Hop
-50, Jay-Z - The Blueprint, 2001, Rap, Hip Hop, East Coast Hip Hop, Chipmunk Soul, Pop Rap, Hardcore Hip Hop
-51, Chuck Berry - The Great Twenty-Eight, 1982, Rock, Rock & Roll, Rhythm & Blues, Blues, Electric Blues
-52, David Bowie - Station to Station, 1976, Rock, Art Rock, Funk Rock, Blue-Eyed Soul, Piano Rock
-53, The Jimi Hendrix Experience - Electric Ladyland, 1968, Rock, Blues Rock, Psychedelic Rock, Acid Rock, Hard Rock
-54, James Brown - Star Time, 1991, Funk, Soul, Rhythm & Blues, Southern Soul
-55, Pink Floyd - The Dark Side of the Moon, 1973, Rock, Art Rock, Progressive Rock, Psychedelic Rock, Space Rock
-56, Liz Phair - Exile in Guyville, 1993, Rock, Singer-Songwriter, Indie Rock, Slacker Rock
-57, The Band - The Band, 1969, Rock, Roots Rock, Folk Rock, Country Rock, Americana
-58, Led Zeppelin - Led Zeppelin IV, 1971, Rock, Hard Rock, Blues Rock, Folk Rock
-59, Stevie Wonder - Talking Book, 1972, Soul, Funk, Pop Soul, Smooth Soul, Psychedelic Soul
-60, Van Morrison - Astral Weeks, 1968, Folk, Singer-Songwriter, Chamber Folk, Blue-Eyed Soul, Celtic Folk Music, Chamber Jazz
-61, Eric B. & Rakim, Paid in Full, 1987, Rap, Hip Hop, East Coast Hip Hop, Boom Bap, Turntablism, Instrumental Hip Hop, Mid-School Hip Hop
-62, Guns N' Roses - Appetite for Destruction, 1987, Rock, Hard Rock, Glam Metal
-63, Steely Dan - Aja, 1977, Rock, Jazz-Rock, Yacht Rock, Pop Rock, Funk Rock
-64, OutKast - Stankonia, 2000, Rap, Hip Hop, Southern Hip Hop, Dirty South, Funk, Experimental Hip Hop, Conscious Hip Hop, Pop Rap
-65, James Brown - Live at the Apollo, 1963, Soul, Rhythm & Blues, Doo-Wop
-66, John Coltrane - A Love Supreme, 1965, Jazz, Spiritual Jazz, Avant-Garde Jazz, Modal Jazz, Post-Bop
-67, Jay-Z - Reasonable Doubt, 1996, Rap, Hip Hop, East Coast Hip Hop, Boom Bap, Gangsta Rap, Jazz Rap
-68, Kate Bush - Hounds of Love, 1985, Pop, Art Pop, Progressive Pop, Baroque Pop, Synthpop
-69, Alanis Morrissette - Jagged Little Pill, 1995, Rock, Pop Rock, Alternative Rock, Singer-Songwriter, Post-Grunge, Trip Hop
-70, N.W.A - Straight Outta Compton, 1988, Rap, Hip Hop, Gangsta Rap, West Coast Hip Hop, Turntablism, Political Hip Hoop, Mid-School Hip Hop
-71, Bob Marley & The Wailers - Exodus, 1977, Reggae, Roots Reggae, Pop Reggae, Lovers Rock
-72, Neil Young - Harvest, 1972, Rock, Country Rock, Folk Rock, Singer-Songwriter
-73, My Bloody Valentine - Loveless, 1991, Rock, Shoegaze, Noise Pop, Dream Pop, Neo-Psychedelia
-74, Kanye West - The College Dropout, 2004, Rap, Hip Hop, Chipmunk Soul, Pop Rap, Conscious Hip Hop, Neo-Soul
-75, Aretha Franklin - Lady Soul, 1968, Soul, Southern Soul, Rhythm & Blues, Deep Soul
-76, Curtis Mayfield - Superfly, 1972, Soul, Chicago Soul, Film Soundtrack, Funk, Psychedelic Soul
-77, The Who - Who's Next, 1971, Rock, Hard Rock, Art Rock
-78, Elvis Presley - The Sun Sessions, 1976, Rock, Rockabilly, Country, Rhythm & Blues
-79, Frank Ocean - Blonde, 2016, R&B, Alternative R&B, Art Pop, Neo-Soul, Ambient Pop, Singer-Songwriter, Alt-Pop
-80, Sex Pistols - Never Mind the Bollocks - Here's the Sex Pistols, 1977, Rock, Punk Rock
-81, Beyoncé - Beyoncé, 2013, Contemporary R&B, R&B, Pop, Alternative R&B, Electropop, Pop Rap, Art Pop
-82, Sly and the Family Stone - There's a Riot Goin' On, 1971, Funk, Psychedelic Soul, Soul, Deep Funk
-83, Dusty Springfield - Dusty in Memphis, 1969, Soul, Pop Soul, Blue-Eyed Soul, Southern Soul, Smooth Soul
-84, AC/DC - Back in Black, 1980, Rock, Hard Rock, Blues Rock
-85, John Lennon - Plastic Ono Band, 1970, Rock, Singer-Songwriter, Contemporary Folk, Blues Rock, Piano Rock
-86, The Doors - The Doors, 1967, Rock, Psychedelic Rock, Blues Rock, Acid Rock
-87, Miles Davis - Bitches Brew, 1970, Jazz, Jazz Fusion, Avant-Garde Jazz, Jazz-Rock, Jazz-Funk
-88, David Bowie - Hunky Dory, 1971, Rock, Pop, Pop Rock, Glam Rock, Art Rock, Singer-Songwriter, Piano Rock, Art Pop, Baroque Pop
-89, Erykah Badu - Baduizm, 1997, Neo-Soul, Contemporary R&B, R&B, Vocal Jazz, Trip Hop, Acid Jazz
-90, Neil Young - After the Gold Rush, 1970, Rock, Folk Rock, Singer-Songwriter, Country Rock
-91, Bruce Springsteen - Darkness on the Edge of Town, 1978, Rock, Heartland Rock, Singer-Songwriter, Piano Rock
-92, The Jimi Hendrix Experience - Axis: Bold as Love, 1967, Rock, Psychedelic Rock, Blues Rock, Hard Rock, Acid Rock
-93, Missy "Misdemeanor" Elliott - Supa Dupa Fly, 1997, Rap, Hip Hop, Pop Rap, Southern Hip Hop, Hip Hop Soul, Contemporary R&B, R&B, Experimental Hip Hop
-94, The Stooges - Fun House, 1970, Rock, Proto-Punk, Garage Rock, Hard Rock, Noise Rock, Free Jazz
-95, Drake - Take Care, 2011, Rap, Pop Rap, Contemporary R&B, R&B, Alternative R&B
-96, R.E.M. - Automatic for the People, 1992, Rock, Alternative Rock, Pop Rock, Jangle Pop, Acoustic Rock, Folk Rock
-97, Metallica - Master of Puppets, 1986, Metal, Thrash Metal, Progressive Metal, Heavy Metal
-98, Lucinda Williams - Car Wheels on a Gravel Road, 1998, Country, Alt-Country, Americana, Singer-Songwriter, Country Rock, Roots Rock
-99, Taylor Swift - Red, 2012, Pop, Singer-Songwriter, Pop Rock, Country Pop, Folk Pop, Electropop, Heartland Rock, Pop Rock
-100, The Band - Music from Big Pink, 1968, Rock, Roots Rock, Folk Rock, Country Rock, Country Soul
+Ranking,Album Name,Year,Genres
+1,Marvin Gaye - What's Going On,1971,Soul/Smooth Soul
+2,The Beach Boys - Pet Sounds,1966,Pop/Baroque Pop/Sunshine Pop/Psychedelic Pop/Progressive Pop/Brill Building/Art Pop
+3,Joni Mitchell - Blue,1971,Folk/Singer-Songwriter/Contemporary Folk/Folk Pop
+4,Stevie Wonder - Songs in the Key of Life,1976,Soul/Funk/Smooth Soul/Pop Soul
+5,The Beatles - Abbey Road,1969,Pop/Rock/Pop Rock/Psychedelic Pop/Progressive Pop/Art Pop
+6,Nirvana - Nevermind,1991,Rock/Grunge/Alternative Rock/Punk Rock
+7,Fleetwood Mac - Rumours,1977,Rock/Pop Rock/Soft Rock/Folk Pop/Country Pop
+8,Prince and the Revolution - Purple Rain,1984,Pop/Rock/Pop Rock/Film Soundtrack/Dance-Pop/Funk Rock/Minneapolis Sound/Synthpop/Glam Rock
+9,Bob Dylan - Blood on the Tracks,1975,Rock/Singer-Songwriter/Folk Rock/Folk/Contemporary Folk
+10,Lauryn Hill - The Miseducation of Lauryn Hill,1998,Neo-Soul/Contemporary R&B/R&B/Hip Hop/East Coast Hip Hop/Conscious Hip Hop/Boom Bap/Hip Hop Soul
+11,The Beatles - Revolver,1966,Pop Rock/Rock/Pop/Psychedelic Pop/Psychedelic Rock
+12,Michael Jackson - Thriller,1982,Pop/R&B/Contemporary R&B/Dance-Pop/Disco/Funk/Pop Soul/Synth Funk
+13,Aretha Franklin - I Never Loved a Man the Way I Love You,1967,Soul/Deep Soul/Southern Soul/Rhythm & Blues
+14,The Rolling Stones - Exile on Main St.,1972,Rock/Blues Rock/Roots Rock/Country Rock/Rhythm & Blues
+15,Public Enemy - It Takes a Nation of Millions to Hold Us Back,1988,Hip Hop/Rap/Political Hip Hop/East Coast Hip Hop/Hardcore Hip Hop/Conscious Hip Hop/Turntablism/Experimental Hip Hop
+16,The Clash - London Calling,1979,Rock/New Wave/Punk Rock/Ska/Reggae/Rockabilly/Reggae Rock/Post-Punk
+17,Kanye West - My Beautiful Dark Twisted Fantasy,2010,Rap/Hip Hop/Pop Rap/Art Pop/Experimental Hip Hop
+18,Bob Dylan - Highway 61 Revisited,1965,Rock/Folk Rock/Singer-Songwriter/Blues Rock/Contemporary Folk/Folk
+19,Kendrick Lamar - To Pimp a Butterfly,2015,Hip Hop/Rap/Conscious Hip Hop/West Coast Hip Hop/Jazz Rap/Political Hip Hop/Neo-Soul/Funk/Poetry/Experimental Hip Hop
+20,Radiohead - Kid A,2000,Rock/Art Rock/Electronic/Experimental Rock/Ambient/IDM/Art Pop/Post-Rock
+21,Bruce Springsteen - Born to Run,1975,Rock/Heartland Rock/Singer-Songwriter/Piano Rock
+22,The Notorious B.I.G. - Ready to Die,1994,Rap/Hip Hop/East Coast Hip Hop/Gangsta Rap/Boom Bap/G-Funk
+23,The Velvet Underground & Nico - The Velvet Underground & Nico,1967,Rock/Art Rock/Experimental Rock/Proto-Punk/Noise Rock/Garage Rock/Psychedelic Rock
+24,The Beatles - Sgt. Pepper's Lonely Hearts Club Band,1967,Pop/Rock/Psychedelic Pop/Pop Rock/Psychedelic Rock/Art Rock/Baroque Pop/Sunshine Pop/Music Hall
+25,Carole King - Tapestry,1971,Rock/Singer-Songwriter/Soft Rock/Folk Pop/Piano Rock/Pop Soul
+26,Patti Smith - Horses,1975,Rock/Proto-Punk/Singer-Songwriter/Art Rock/Garage Rock/Art Punk/Poetry/Piano Rock/Glam Rock
+27,Wu-Tang Clan - Enter the Wu-Tang (36 Chambers),1993,Rap/Hip Hop/East Coast Hip Hop/Boom Bap/Hardcore Hip Hop
+28,D'Angelo - Voodoo,2000,Neo-Soul/Funk/Contemporary R&B/R&B/Psychedelic Soul/Smooth Soul/Hip Hop
+29,The Beatles - The Beatles (White Album),1968,Rock/Pop Rock/Psychedelic Rock/Blues Rock/Art Rock/Folk Rock/Hard Rock
+30,The Jimi Hendrix Experience - Are You Experienced?,1967,Rock/Blues Rock/Psychedelic Rock/Acid Rock/Hard Rock
+31,Miles Davis - Kind of Blue,1959,Jazz/Modal Jazz/Cool Jazz
+32,Beyoncé - Lemonade,2016,R&B/Contemporary R&B/Pop/Alternative R&B/Pop Rap/Art Pop/Pop Soul
+33,Amy Winehouse - Back to Black,2006,Pop/Pop Soul/Rhythm & Blues/Soul/Neo-Soul/Jazz Pop/Brill Building
+34,Stevie Wonder - Innervisions,1973,Soul/Funk/Smooth Soul/Psychedelic Soul
+35,The Beatles - Rubber Soul,1965,Rock/Pop Rock/Folk Rock/Psychedelic Pop/Folk Pop/British Rhythm & Blues
+36,Michael Jackson - Off the Wall,1979,Pop/Disco/Funk/Pop Soul/Contemporary R&B/Dance-Pop/Boogie
+37,Dr. Dre - The Chronic,1992,Rap/Hip Hop/G-Funk/West Coast Hip Hop/Gangsta Rap
+38,Bob Dylan - Blonde on Blonde,1966,Rock/Folk Rock/Singer-Songwriter/Blues Rock
+39,Talking Heads - Remain in Light,1980,Rock/New Wave/Post-Punk/Funk/Afrobeat/Experimental Rock/Dance-Punk
+40,David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders from Mars,1972,Rock/Glam Rock/Pop Rock/Art Rock/Rock Opera
+41,The Rolling Stones - Let It Bleed,1969,Rock/Blues Rock/Country Rock
+42,Radiohead - OK Computer,1997,Rock/Alternative Rock/Art Rock/Post-Britpop/Space Rock Revival
+43,A Tribe Called Quest - The Low End Theory,1991,Rap/Hip Hop/Jazz Rap/East Coast Hip Hop/Conscious Hip Hop/Boom Bap
+44,Nas - Illmatic,1994,Rap/Hip Hop/East Coast Hip Hop/Boom Bap/Hardcore Hip Hop/Conscious Hip Hop/Jazz Rap
+45,Prince - Sign O' the Times,1987,Contemporary R&B/R&B/Pop Rock/Rock/Synth Funk/Soul/Funk/Minneapolis Sound
+46,Paul Simon - Graceland,1986,Rock/Pop Rock/Singer-Songwriter/Mbaqanga/Mbube/Zydeco/Soukous/Isicathamiya
+47,Ramones - Ramones,1976,Rock/Punk Rock/Pop Punk
+48,Bob Marley and the Wailers - Legend,1984,Roots Reggae/Reggae/Pop Reggae/Lovers Rock
+49,OutKast - Aquemini,1998,Rap/Hip Hop/Southern Hip Hop/Conscious Hip Hop/Neo-Soul/Funk/Experimental Hip Hop/Hardcore Hip Hop
+50,Jay-Z - The Blueprint,2001,Rap/Hip Hop/East Coast Hip Hop/Chipmunk Soul/Pop Rap/Hardcore Hip Hop
+51,Chuck Berry - The Great Twenty-Eight,1982,Rock/Rock & Roll/Rhythm & Blues/Blues/Electric Blues
+52,David Bowie - Station to Station,1976,Rock/Art Rock/Funk Rock/Blue-Eyed Soul/Piano Rock
+53,The Jimi Hendrix Experience - Electric Ladyland,1968,Rock/Blues Rock/Psychedelic Rock/Acid Rock/Hard Rock
+54,James Brown - Star Time,1991,Funk/Soul/Rhythm & Blues/Southern Soul
+55,Pink Floyd - The Dark Side of the Moon,1973,Rock/Art Rock/Progressive Rock/Psychedelic Rock/Space Rock
+56,Liz Phair - Exile in Guyville,1993,Rock/Singer-Songwriter/Indie Rock/Slacker Rock
+57,The Band - The Band,1969,Rock/Roots Rock/Folk Rock/Country Rock/Americana
+58,Led Zeppelin - Led Zeppelin IV,1971,Rock/Hard Rock/Blues Rock/Folk Rock
+59,Stevie Wonder - Talking Book,1972,Soul/Funk/Pop Soul/Smooth Soul/Psychedelic Soul
+60,Van Morrison - Astral Weeks,1968,Folk/Singer-Songwriter/Chamber Folk/Blue-Eyed Soul/Celtic Folk Music/Chamber Jazz
+61,Eric B. & Rakim - Paid in Full,1987,Rap/Hip Hop/East Coast Hip Hop/Boom Bap/Turntablism/Instrumental Hip Hop/Mid-School Hip Hop
+62,Guns N' Roses - Appetite for Destruction,1987,Rock/Hard Rock/Glam Metal
+63,Steely Dan - Aja, 1977,Rock/Jazz-Rock/Yacht Rock/Pop Rock/Funk Rock
+64,OutKast - Stankonia,2000,Rap/Hip Hop/Southern Hip Hop/Dirty South/Funk/Experimental Hip Hop/Conscious Hip Hop/Pop Rap
+65,James Brown - Live at the Apollo,1963,Soul/Rhythm & Blues/Doo-Wop
+66,John Coltrane - A Love Supreme,1965,Jazz/Spiritual Jazz/Avant-Garde Jazz/Modal Jazz/Post-Bop
+67,Jay-Z - Reasonable Doubt,1996,Rap/Hip Hop/East Coast Hip Hop/Boom Bap/Gangsta Rap/Jazz Rap
+68,Kate Bush - Hounds of Love,1985,Pop/Art Pop/Progressive Pop/Baroque Pop/Synthpop
+69,Alanis Morrissette - Jagged Little Pill,1995,Rock/Pop Rock/Alternative Rock/Singer-Songwriter/Post-Grunge/Trip Hop
+70,N.W.A - Straight Outta Compton,1988,Rap/Hip Hop/Gangsta Rap/West Coast Hip Hop/Turntablism/Political Hip Hop/Mid-School Hip Hop
+71,Bob Marley & The Wailers - Exodus,1977,Reggae/Roots Reggae/Pop Reggae/Lovers Rock
+72,Neil Young - Harvest, 1972,Rock/Country Rock/Folk Rock/Singer-Songwriter
+73,My Bloody Valentine - Loveless,1991,Rock/Shoegaze/Noise Pop/Dream Pop/Neo-Psychedelia
+74,Kanye West - The College Dropout,2004,Rap/Hip Hop/Chipmunk Soul/Pop Rap/Conscious Hip Hop/Neo-Soul
+75,Aretha Franklin - Lady Soul,1968,Soul/Southern Soul/Rhythm & Blues/Deep Soul
+76,Curtis Mayfield - Superfly,1972,Soul/Chicago Soul/Film Soundtrack/Funk/Psychedelic Soul
+77,The Who - Who's Next,1971,Rock/Hard Rock/Art Rock
+78,Elvis Presley - The Sun Sessions,1976,Rock/Rockabilly/Country/Rhythm & Blues
+79,Frank Ocean - Blonde,2016,R&B/Alternative R&B/Art Pop/Neo-Soul/Ambient Pop/Singer-Songwriter/Alt-Pop
+80,Sex Pistols - Never Mind the Bollocks - Here's the Sex Pistols,1977,Rock/Punk Rock
+81,Beyoncé - Beyoncé,2013,Contemporary R&B/R&B/Pop/Alternative R&B/Electropop/Pop Rap/Art Pop
+82,Sly and the Family Stone - There's a Riot Goin' On,1971,Funk/Psychedelic Soul/Soul/Deep Funk
+83,Dusty Springfield - Dusty in Memphis,1969,Soul/Pop Soul/Blue-Eyed Soul/Southern Soul/Smooth Soul
+84,AC/DC - Back in Black,1980,Rock/Hard Rock/Blues Rock
+85,John Lennon - Plastic Ono Band,1970,Rock/Singer-Songwriter/Contemporary Folk/Blues Rock/Piano Rock
+86,The Doors - The Doors,1967,Rock/Psychedelic Rock/Blues Rock/Acid Rock
+87,Miles Davis - Bitches Brew,1970,Jazz/Jazz Fusion/Avant-Garde Jazz/Jazz-Rock/Jazz-Funk
+88,David Bowie - Hunky Dory,1971,Rock/Pop/Pop Rock/Glam Rock/Art Rock/Singer-Songwriter/Piano Rock/Art Pop/Baroque Pop
+89,Erykah Badu - Baduizm,1997,Neo-Soul/Contemporary R&B/R&B/Vocal Jazz/Trip Hop/Acid Jazz
+90,Neil Young - After the Gold Rush,1970,Rock/Folk Rock/Singer-Songwriter/Country Rock
+91,Bruce Springsteen - Darkness on the Edge of Town,1978,Rock/Heartland Rock/Singer-Songwriter/Piano Rock
+92,The Jimi Hendrix Experience - Axis: Bold as Love,1967,Rock/Psychedelic Rock/Blues Rock/Hard Rock/Acid Rock
+93,"Missy ""Misdemeanor"" Elliott - Supa Dupa Fly",1997,Rap/Hip Hop/Pop Rap/Southern Hip Hop/Hip Hop Soul/Contemporary R&B/R&B/Experimental Hip Hop
+94,The Stooges - Fun House,1970,Rock/Proto-Punk/Garage Rock/Hard Rock/Noise Rock/Free Jazz
+95,Drake - Take Care,2011,Rap/Pop Rap/Contemporary R&B/R&B/Alternative R&B
+96,R.E.M. - Automatic for the People,1992,Rock/Alternative Rock/Pop Rock/Jangle Pop/Acoustic Rock/Folk Rock
+97,Metallica - Master of Puppets,1986,Metal/Thrash Metal/Progressive Metal/Heavy Metal
+98,Lucinda Williams - Car Wheels on a Gravel Road,1998,Country/Alt-Country/Americana/Singer-Songwriter/Country Rock/Roots Rock
+99,Taylor Swift - Red,2012,Pop/Singer-Songwriter/Pop Rock/Country Pop/Folk Pop/Electropop/Heartland Rock/Pop Rock
+100,The Band - Music from Big Pink,1968,Rock/Roots Rock/Folk Rock/Country Rock/Country Soul
 
 

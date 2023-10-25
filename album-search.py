@@ -2,18 +2,25 @@ import csv
 
 database = {}
 data_list = []
-with open("albums.csv", "r", newline=" ") as file:
+
+with open("albums.csv", "r", newline="") as file:
     csv_reader = csv.DictReader(file)
     for row in csv_reader:
         album_name = row["Album Name"]
-        genres = row["Genres"].split(", ")
-        ranking = int(row["Ranking"])
-        year = int(row["Year"])
+        genres = tuple(row["Genres"].split("/"))
+        ranking = int(row["Ranking"].strip())
+        year = int(row["Year"].strip())
         data = (ranking, year, genres)
         database[data] = album_name
+for d in database:
+    data_list.append(d)
+genre_results = data_list
+year_results = data_list
+ranking_results = data_list
 
 def year_search():
-    global data_list
+    global year_results
+    temp_year = []
     while True:
         print("Enter a year or a range of years, e.g. 1980 or 1980-1989:")
         years = input()
@@ -33,25 +40,21 @@ def year_search():
         except:
             pass
         print("Please enter a valid year or range.")
-    if data_list == []:
-        if span:
-            for item in database:
-                if year1 <= item[1] <= year2:
-                    data_list.append(item)
-        else:
-            for item in database:
-                if item[1] == year:
-                    data_list.append(item)
+    if span:
+        for item in database:
+            if year1 <= item[1] <= year2:
+                temp_year.append(item)
     else:
-        if span:
-            if not year1 <= item[1] <= year2:
-                data_list.remove(item)
-        else:
-            if item[1] != year:
-                data_list.remove(item)
+        for item in database:
+            if item[1] == year:
+                temp_year.append(item)
+    if temp_year is not None:
+        year_results = temp_year
+
 
 def ranking_search():
-    global data_list
+    global ranking_results
+    temp_rank = []
     print("Enter a number between 1 and 100 or a range of numbers, e.g. 30 or 11-20:")
     while True:
         rankings = input()
@@ -71,25 +74,21 @@ def ranking_search():
         except:
             pass
         print("Please enter a valid ranking or range.")
-    if data_list == []:
-        if span:
-            for item in database:
-                if item[0] in range(rank1, rank2 + 1):
-                    data_list.append(item)
-        else:
-            for item in database:
-                if item[0] == rank:
-                    data_list.append(item)
+    if span:
+        for item in database:
+            if rank1 <= item[0] <= rank2:
+                temp_rank.append(item)
     else:
-        if span:
-            if item[0] not in range(rank1, rank2 + 1):
-                data_list.remove(item)
-        else:
-            if item[0] != rank:
-                data_list.remove(item)
+        for item in database:
+            if item[0] == rank:
+                temp_rank.append(item)
+    if temp_rank is not None:
+        ranking_results = temp_rank
+
 
 def genre_search():
-    global data_list
+    global genre_results
+    temp_gen = []
     g = []
     while True:
         print("Enter a genre of music:")
@@ -112,7 +111,9 @@ def genre_search():
             if genre_format(gen) == genre:
                 matches += 1
         if matches == len(g):
-            data_list.append(item)
+            temp_gen.append(item)
+    if temp_gen is not None:
+        genre_results = temp_gen
     
 def genre_format(genre):
     genre = genre.strip()
@@ -146,6 +147,26 @@ def search():
             first = False
         elif parameter == "end":
             break
+        else:
+            print("Please enter a valid parameter.")
 
 def show_results():
-    pass
+    data_list = list(set(year_results) & set(ranking_results) & set(genre_results))
+    if not data_list:
+        print("No results were found.")
+        return
+    results_list = []
+    for item in data_list:
+        results_list.append(database[item])
+    results_list.sort()
+    print("Here are the results for the criteria you searched:")
+    print("********************")
+    for album in results_list:
+        print(album)
+    print("********************")
+
+def main():
+    search()
+    show_results()
+
+main()
